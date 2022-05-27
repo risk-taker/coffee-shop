@@ -1,0 +1,8 @@
+colors
+red= #F92E2E
+light rey= #95969A
+grey= #4D4F59
+chocolate= #603813
+skin= #BC906A
+black= #0D0F12
+white= #FFFFFF

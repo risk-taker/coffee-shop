@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.cartMargin {
+  margin-right: 15px;
+}
+
+.textDeco {
+  text-decoration: none;
+  /* font-size: ; */
+}
